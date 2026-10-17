@@ -1,3 +1,4 @@
 streamlit
 pandas
 pillow
+reportlab==4.2.0
